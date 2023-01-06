@@ -3,7 +3,7 @@
     internal class Program
     {
         static void Main(string[] args)
-        {   //Sonuncu musbet elementi tapmaq
+        {   //Sonuncu musbet elementin indeksini tapmaq
             
             Console.Write("Massivin uzunlugunu daxil edin: ");
             int n = int.Parse(Console.ReadLine());
